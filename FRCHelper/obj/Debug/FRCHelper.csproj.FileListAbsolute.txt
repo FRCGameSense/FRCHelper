@@ -10,3 +10,6 @@ C:\Users\ttremblay\Documents\GitHub\FRCHelper\FRCHelper\obj\Debug\FRCHelper.Sett
 C:\Users\ttremblay\Documents\GitHub\FRCHelper\FRCHelper\obj\Debug\FRCHelper.csproj.GenerateResource.Cache
 C:\Users\ttremblay\Documents\GitHub\FRCHelper\FRCHelper\obj\Debug\FRCHelper.exe
 C:\Users\ttremblay\Documents\GitHub\FRCHelper\FRCHelper\obj\Debug\FRCHelper.pdb
+D:\GitHub\FRCHelper\FRCHelper\bin\Debug\FRCHelper.exe.config
+D:\GitHub\FRCHelper\FRCHelper\obj\Debug\FRCHelper.exe
+D:\GitHub\FRCHelper\FRCHelper\obj\Debug\FRCHelper.pdb
